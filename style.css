@@ -1,0 +1,129 @@
+/*  
+Theme Name: Keet
+Theme URI: http://blogs.sf3am.com/keet/
+Description: A flexible and sharp theme framework for Wordpress.
+Author: Daniel J. McKeown
+Author URI: http://pacificpelican.us/
+Version: 0.1.1
+Tags: frameworks, widgets, GPLv2+, pacificpelican.us, custom menu, Gravatars, minimal, Google Web Fonts, Wordpress 3+
+.
+Keet theme: copyright May 2010 Daniel J. McKeown.
+This work is released under GNU General Public License (GNU GPL), version 2 or later:
+http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+
+  licensing info:
+    		This program is free software: you can redistribute it and/or modify
+    		it under the terms of the GNU General Public License as published by
+    		the Free Software Foundation, either version 2 of the License, or
+    		(at your option and if possible) any later version.
+
+    		This program is distributed in the hope that it will be useful,
+    		but WITHOUT ANY WARRANTY; without even the implied warranty of
+    		MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    		GNU General Public License for more details.
+
+    		You should have received a copy of the GNU General Public License
+    		(version 2) along with this program.  If not, see <http://www.gnu.org/licenses/>
+
+
+The images (and only images) included in this theme (headers, icon) are dual licensed:
+
+1. under the GNU GPL version 2 (or later), as noted above:
+http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+(images are included in the theme, all of which is GPL licensed);
+
+2. and also under the Creative Commons Attribution-No Derivative Works 3.0 United States license:
+http://creativecommons.org/licenses/by-nd/3.0/us/
+(users can freely use the theme's images unmodified alongside commercial or non-commercial content);
+
+[at your option].
+
+.
+*/
+
+h1, h3, p { font-family: 'Crimson Text', sans-serif, Arial;
+		color: #000003; font-weight:normal;
+
+ }
+
+
+
+a:link {
+	font-weight:normal;
+	font-family: 'Crimson Text', sans-serif, Arial;
+	border-bottom:1px solid silver;
+	text-decoration:none;
+	color: #000003;
+
+}
+
+a:visited  {
+		font-weight:normal;
+		font-family: 'Crimson Text', sans-serif, Arial;
+		clear:both;
+		color: #000000;
+		text-decoration:none;
+					 }
+
+h2 {
+	font-family: 'Crimson Text', sans-serif, Arial;
+		color: #000003; font-weight: bold;
+
+		}
+
+
+
+li {
+	list-style-type:none;
+
+}
+
+img  {
+
+border:0;
+
+	}
+
+
+hr {
+  border: 0;
+  width: 900px;
+  color: #DDDDDD;
+  background-color: #DDDDDD;
+}
+
+
+#menu3 ul li, #menu3 ul li ul {
+
+	display: inline;
+	margin-left: 2em;
+	border-bottom:1px solid silver;
+}
+
+#mydiv0 {
+
+	font-variant: small-caps;
+ 	 font-size: 0.9em;
+	font-weight: normal;
+
+	}
+
+#mydiv0 li {
+
+
+	 color: #555555;
+	}
+
+#mydiv0 p {
+
+
+	 color: #555555;
+	}
+
+h3.comments {
+	font-weight: normal;
+	}
+
+h3 	{
+	font-weight: normal;
+	}
